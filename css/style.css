@@ -1,0 +1,14 @@
+body {
+    background-color: #E3A463;
+}
+
+#main {
+    width: 1024px;
+    height: 1024px;
+    margin: auto auto;
+    background-image: url("../img/птичка.jpg");
+}
+
+#main h1 {
+    text-align: center;
+}
